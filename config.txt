@@ -2,5 +2,5 @@ token=NDkxMjYyNDM2ODQ3MTI0NDkz.DoFXlA.456GLbRSdKODRgeSNgxW26kOTnY
 owner=470500980342128650
 prefix=3
 game=3play-United
-stayinchannel=true
+
 
